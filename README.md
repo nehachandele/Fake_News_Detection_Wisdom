@@ -90,34 +90,46 @@ Reason:
 ---
 
 ## 📂 Project Structure
-fake-news-detection/
-│
-├── Fake_News_Detection.ipynb
-├── vectorizer.pkl
-├── fake_news_model.pkl
-├── requirements.txt
-└── README.md
 
-Instructions to run the project 
+    fake-news-detection/
+    │
+    ├── Fake_News_Detection.ipynb
+    ├── vectorizer.pkl
+    ├── fake_news_model.pkl
+    ├── requirements.txt
+    └── README.md
 
-Clone the Repository 
+---
 
-git clone https://github.com/nehachandele/Fake_News_Detection_Wisdom.git 
+## 🚀 Instructions to Run the Project
 
-cd fake-news-detection 
+### 1️⃣ Clone the Repository
 
-Install Dependencies 
+    git clone https://github.com/nehachandele/Fake_News_Detection_Wisdom.git
+    cd fake-news-detection
 
-pip install -r requirements.txt 
+---
 
-     If requirements.txt is not available, install manually: 
+### 2️⃣ Install Dependencies
 
-pip install pandas numpy scikit-learn nltk matplotlib seaborn 
+    pip install -r requirements.txt
 
- 
+If `requirements.txt` is not available, install manually:
 
-Run the Notebook 
+    pip install pandas numpy scikit-learn nltk matplotlib seaborn
 
-Open Jupyter Notebook : jupyter notebook 
+---
 
-Then open: Fake_News_Detection.ipynb  Run all cells step by step.
+### 3️⃣ Run the Notebook
+
+Open Jupyter Notebook:
+
+    jupyter notebook
+
+Then open:
+
+    Fake_News_Detection.ipynb
+
+Run all cells step by step.
+
+---
